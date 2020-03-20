@@ -1,2 +1,12 @@
-# News_Filter
-Repository holding files and documentation for w266 final project
+# Filtering your News Source
+
+With aims to provide users with the least biased information of current events, we developed a model that extracts the least biased, and most valuable information from available datasets containing news articles. 
+
+The obtained news articles come from sources like
+ 
+ 1. The New York Times
+ 2. CNN
+ 3. MSNBC
+ 4. Fox News
+ 6. Breitbart
+ 
