@@ -10,3 +10,5 @@ The obtained news articles come from sources like
  4. Fox News
  6. Breitbart
  
+Data:
+- Kaggle: https://www.kaggle.com/snapcrack/all-the-news
