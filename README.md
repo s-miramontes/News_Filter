@@ -1,6 +1,6 @@
 # Filtering your News Source
 
-With aims to provide users with the least biased information of current events, we developed a model that extracts the least biased, and most valuable information from available datasets containing news articles. 
+With an aim to provide users with the least biased information of current events, we developed a model that extracts the least biased, and most valuable information from available datasets containing news articles. 
 
 The obtained news articles come from sources like
  
@@ -10,3 +10,5 @@ The obtained news articles come from sources like
  4. Fox News
  6. Breitbart
  
+Data:
+- Kaggle: https://www.kaggle.com/snapcrack/all-the-news
